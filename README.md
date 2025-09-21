@@ -1,31 +1,62 @@
-# PROJECTNAME
+# Project DAK – NIS2 Compliance Advies
 
-## Objective
-[Brief Objective - Remove this afterwards]
+## Objective  
+Het DAK-project richtte zich op het onderzoeken in hoeverre DAK Intermediairscollectief voldoet aan de aankomende **NIS2-wetgeving**, en welke aanvullende maatregelen nodig zijn om volledig compliant te worden.  
+Het doel was om door middel van **gap-analyses, risicoanalyses en Proof of Concept-tests** concrete aanbevelingen te doen voor het verhogen van de digitale weerbaarheid van DAK.  
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+## Skills Learned  
 
-### Skills Learned
-[Bullet Points - Remove this afterwards]
+- Toepassen van **NIS2-richtlijn** op een reële organisatie in de financiële sector.  
+- Uitvoeren van **gap-analyses** en **risicoanalyses** in een bedrijfscontext.  
+- Praktische ervaring met **Proof of Concept** testen van security tools.  
+- Opstellen van een **implementatieplan** met prioritering van maatregelen.  
+- Ontwikkelen van **security awareness- en trainingsplannen**.  
+- Samenwerken in een multidisciplinair team en vertalen van onderzoek naar **adviesrapport**.  
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+## Tools Used  
 
-### Tools Used
-[Bullet Points - Remove this afterwards]
+- **Microsoft Sentinel** – SIEM voor centrale loganalyse en monitoring.  
+- **Eye Security MXDR** – Managed Detection & Response, 24/7 monitoring.  
+- **Sophos Intercept X Advanced with XDR** – endpointbescherming en respons.  
+- **SecurityScorecard** – leveranciersbeheer en risicobeoordeling.  
+- **EventLog Explorer** – loganalyse en auditing.  
+- **1Password Business** – wachtwoordbeheer en MFA-integratie.  
+- **Microsoft 365 & Azure-licenties** – o.a. Defender for Endpoint, Entra ID, Power Automate.  
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+## Steps  
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+### Ref 1: Gap-analyse en risicoanalyse  
+We analyseerden de huidige ICT-omgeving van DAK en vergeleken die met de eisen van de NIS2.  
+- Sterke basis aanwezig door Eye Security en Microsoft-licenties.  
+- Tekortkomingen: MFA ontbrak, logging niet centraal, awareness-trainingen onvoldoende structureel.  
 
-Every screenshot should have some text explaining what the screenshot is about.
+### Ref 2: Proof of Concept  
+We testten 10 securitytools op **beveiliging, gebruiksvriendelijkheid, onderhoud en kosten**.  
+- Top 5 geselecteerde tools: Microsoft Sentinel, Sophos, SecurityScorecard, EventLog Explorer, 1Password.  
 
-Example below.
+### Ref 3: Implementatieplan  
+We werkten een **5-stappenplan** uit:  
+1. Prioriteren van risico’s (focus op MFA, SIEM, sessiebeheer).  
+2. Implementeren van technische maatregelen.  
+3. Versterken van organisatorische processen (incident response, BCP).  
+4. Monitoring & audits.  
+5. Documentatie & rapportage.  
 
-*Ref 1: Network Diagram*
+### Ref 4: Awareness & Training  
+We ontwikkelden een **trainingsplan** voor alle medewerkers:  
+- E-learning en phishing-simulaties.  
+- Workshops voor IT en management.  
+- Jaarlijkse herhaling en toetsing.  
+
+---
+
+📸 Screenshots (bijvoorbeeld):  
+- Netwerkdiagram PoC  
+- Testresultaten SecurityScorecard  
+- Microsoft Sentinel dashboards  
+- Awareness-training resultaten  
+
+---
+
+## Resultaat  
+Het project leverde een volledig **adviesrapport** en een **Proof of Concept** op waarmee DAK inzicht kreeg in hun huidige staat van digitale weerbaarheid en een concreet pad richting NIS2-compliance.  
