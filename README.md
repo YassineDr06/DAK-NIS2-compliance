@@ -91,7 +91,7 @@ Het doel was om door middel van **gap-analyses, risicoanalyses en Proof of Conce
 > Vervang `imgsrc` door je echte pad/URL. Laat de titels intact, dan blijven de interne links werken.
 
 ### <a id="ss1"></a>SS1 – Projectscope en deelvragen
-![SS1 – Projectscope en deelvragen](imgsrc)
+![SS1 – Projectscope en deelvragen](https://i.imgur.com/Im3HEq6.png)
 
 ### <a id="ss2"></a>SS2 – Overzicht gebruikte bronnen/SCIENTA
 ![SS2 – Overzicht gebruikte bronnen/SCIENTA](imgsrc)
