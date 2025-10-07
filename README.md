@@ -89,49 +89,63 @@ Het doel was om door middel van **gap-analyses, risicoanalyses en Proof of Conce
 ## Screenshots
 
 ### <a id="ss1"></a>SS1 – Project hoofdvraag en deelvragen
-![SS1 – Projectscope en deelvragen](https://i.imgur.com/Im3HEq6.png)
+<img width="503" height="665" alt="Schermafbeelding 2025-09-21 195347" src="https://github.com/user-attachments/assets/4b8eedc1-1abb-4ed7-acb4-a0843e951d02" />
+
 
 ### <a id="ss2"></a>SS2 – Inleiding deelvraag 2
-![SS2 – Overzicht gebruikte bronnen/SCIENTA](https://i.imgur.com/wFF2Snu.png)
+<img width="607" height="286" alt="Schermafbeelding 2025-09-22 202415" src="https://github.com/user-attachments/assets/529fb119-27ab-4b96-a861-7233517bab7f" />
+
 
 ### <a id="ss3"></a>SS3 – Conclusie deelvraag 2
-![SS3 – NIS2→Domeinen mapping](https://i.imgur.com/GYJfMOy.png)
+<img width="1200" height="889" alt="Schermafbeelding 2025-09-22 202941" src="https://github.com/user-attachments/assets/a19c76bf-868e-4a12-8d19-e0520535ec94" />
+
 
 ### <a id="ss4"></a>SS4 – Beoordelingsschaal gap-analyse
-![SS4 – GAP-analyse per NIS2-domein](https://i.imgur.com/p9MrIHh.png)
+<img width="1160" height="1086" alt="Schermafbeelding 2025-09-22 203258" src="https://github.com/user-attachments/assets/d2966f91-406f-45b8-ba95-cbe51cc15e19" />
+
 
 ### <a id="ss5"></a>SS5 – Gap-analyse onderbouwing (CMDB/back-up)
-![SS5 – Onderbouwing: CMDB/back-up bevindingen](https://i.imgur.com/vncRdKH.png)
+<img width="628" height="626" alt="Schermafbeelding 2025-09-22 211205" src="https://github.com/user-attachments/assets/99b19d1a-8d9c-4042-8d00-0edd49de1f7a" />
+
 
 ### <a id="ss6"></a>SS6 – Risicomatrix en top-risico’s
-![SS6 – Risicomatrix en top-risico’s](https://i.imgur.com/51IJnSA.png)
+<img width="911" height="805" alt="Schermafbeelding 2025-09-22 203735" src="https://github.com/user-attachments/assets/81aa91ba-42a4-443c-be16-ba662e2d969a" />
+
 
 ### <a id="ss7"></a>SS7 – Risicoregister (excerpt)
-![SS7 – Risicoregister (excerpt)](https://i.imgur.com/VneVcw8.png)
+<img width="916" height="730" alt="Schermafbeelding 2025-09-22 203723" src="https://github.com/user-attachments/assets/93617bdf-e182-45c7-b0d5-12529784ee2b" />
+
 
 ### <a id="ss8"></a>SS8 – Productselectie (10 tools)
-![SS8 – Evaluatiematrix (10 tools)](https://i.imgur.com/MHsOFfY.png)
+<img width="905" height="946" alt="Schermafbeelding 2025-09-22 204200" src="https://github.com/user-attachments/assets/cef48f0f-0743-469e-8775-549075de8529" />
+
 
 ### <a id="ss9"></a>SS9 – Voorbeeld geteste tools
-![SS9 – DeelVoorbeeld geteste tools](https://i.imgur.com/7wVGO7M.png)
+<img width="645" height="1039" alt="Schermafbeelding 2025-09-22 204933" src="https://github.com/user-attachments/assets/a28385b3-f89b-45da-98f3-b4a8fd7f7200" />
 
-### <a id="ss10"></a>SS10 – Deel POC
-![SS10 – Sentinel dashboards & incidents](https://i.imgur.com/3mmXfke.png)
+
+### <a id="ss10"></a>SS10 – Inleiding POC
+<img width="630" height="432" alt="Schermafbeelding 2025-09-22 205804" src="https://github.com/user-attachments/assets/cdcc2005-ea06-46f0-a166-eb9e9c212f47" />
+
 
 ### <a id="ss11"></a>SS11 – Implementatieplan
-![SS11 – EventLog Explorer: detectie & filtering](https://i.imgur.com/nPdzzMz.png)
+<img width="628" height="773" alt="Schermafbeelding 2025-09-22 210152" src="https://github.com/user-attachments/assets/d14c9156-0f15-4848-86c4-e7e728f6f53b" />
+
 
 ### <a id="ss12"></a>SS12 – Trainingsplan
-![SS12 – Sophos Central: XDR-detecties/rapportage](https://i.imgur.com/td0mCnK.png)
+<img width="616" height="985" alt="Schermafbeelding 2025-09-22 210312" src="https://github.com/user-attachments/assets/364d507b-b769-4f26-a562-9c69d9e0b587" />
 
 ### <a id="ss13"></a>SS13 – Deel change management
-![SS13 – SecurityScorecard: leveranciersscore](https://i.imgur.com/J3QhQH8.png)
+<img width="615" height="708" alt="Schermafbeelding 2025-09-22 210425" src="https://github.com/user-attachments/assets/6266e55b-7421-4a60-aafc-d0270f772c21" />
+
 
 ### <a id="ss14"></a>SS14 – Kostenanalyse
-![SS14 – Aanbevolen toolketen (Top-5 Stack)](https://i.imgur.com/UrZNs2H.png)
+<img width="618" height="625" alt="Schermafbeelding 2025-09-22 210604" src="https://github.com/user-attachments/assets/da268d88-1365-4bc0-8ec1-9e3fedad7ef9" />
+
 
 ### <a id="ss15"></a>SS15 – SMART batenanalyse
-![SS15 – Roadmap/Gantt (5-stappenplan)](https://i.imgur.com/2UkB7gw.png)
+<img width="630" height="966" alt="Schermafbeelding 2025-09-22 210617" src="https://github.com/user-attachments/assets/2b739cfa-3f17-44a6-9b04-8a3ae31f3e6c" />
+
 
 ### <a id="ss16"></a>SS16 – Eindconclusie
-![SS16 – Trainingsplanning (6 weken)](https://i.imgur.com/u8FcQew.png)
+<img width="641" height="294" alt="Schermafbeelding 2025-09-22 210819" src="https://github.com/user-attachments/assets/f09c30bc-b715-4d65-8484-6bda68b77445" />
